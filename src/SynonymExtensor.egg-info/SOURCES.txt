@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/SynonymExtensor.egg-info/PKG-INFO
+src/SynonymExtensor.egg-info/SOURCES.txt
+src/SynonymExtensor.egg-info/dependency_links.txt
+src/SynonymExtensor.egg-info/requires.txt
+src/SynonymExtensor.egg-info/top_level.txt
